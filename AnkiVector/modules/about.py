@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developers [TeamAnkiVector🇱🇰](https://t.me/TeamAnkiVector)
+Developers [Sophia Team](https://t.me/BoTupdateZone)
 """
 __mod_name__ = "About"
